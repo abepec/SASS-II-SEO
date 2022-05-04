@@ -1,0 +1,66 @@
+:root {
+  --main-color:white;
+}
+
+body {
+  margin: 0;
+  background: #252525;
+}
+body .bg, body .bghello {
+  text-align: center;
+  padding: 10px;
+  height: 70vw;
+  /*padding: 10px;
+  height: 70vw;*/
+  background-size: cover;
+  box-sizing: border-box;
+  filter: blur(4px);
+}
+body .bg-text {
+  color: var(--main-color);
+  font-weight: bold;
+  /*border: 3px solid #f1f1f1;*/
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 80%;
+  padding: 20px;
+  text-align: center;
+  font-family: "Rubik Mono One", sans-serif;
+}
+body .bghello {
+  height: 25vw;
+}
+body .custom-section {
+  padding-top: 50px;
+}
+body .cb {
+  display: flex;
+  align-items: left;
+  justify-content: left;
+  flex-direction: column;
+  /*display: flex;
+  align-items: left;
+  justify-content:left;
+  flex-direction: column;*/
+}
+body .card-title, body .card-text {
+  font-family: "Poppins", sans-serif;
+  color: white;
+}
+body .home {
+  background-image: url("../images/space-astronaut.jpg ");
+}
+body footer {
+  background: black;
+  padding: 20px 0;
+  color: var(--main-color);
+  margin-top: 40px;
+}
+body label {
+  color: white;
+}
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,4 @@
+En el archivo index.html sumé el SEO con las siguientes características:
+Descripción: mediante la etiqueta meta name description, agregué el siguiente párrafo que explica en pocas palabras el contenido de mi sitio: “Bienvenido a mi potfolio aqui podras encontrar información sobre mi experiencia y trabajos"
+Palabras clave: mediante la etiqueta meta name keywords, agregué las palabras clave que acompañarán a todas las páginas de mi sitio: "diseño ux, diseño ui, diseño web, desarrollo web"
+Encabezado: para el encabezado del h1 utilicé el texto “Hello yo soy Abe”
